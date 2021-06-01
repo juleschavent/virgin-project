@@ -1,0 +1,35 @@
+/* REGLES GENERALES */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+/* CONTENU COMPLET DE LA PAGE */
+
+body {
+}
+
+/* HEADER */
+
+.header {
+}
+
+/* CONTAINER PRINCIPAL */
+
+.main {
+}
+
+/* COLONNE GRID */
+.colonne {
+}
+
+/* FOOTER */
+
+.footer {
+}
